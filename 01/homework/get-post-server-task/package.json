@@ -1,0 +1,15 @@
+{
+  "name": "get-post-server-task",
+  "version": "1.0.0",
+  "description": "### Научиться работать с потоками (streams) Написать HTTP-сервер для загрузки и получения файлов:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mime": "^1.3.4"
+  }
+}
